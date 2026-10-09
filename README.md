@@ -1,0 +1,2 @@
+# premium-chandelier-001-chandelier-arm-and-socket-desi
+Struggling to get your chandelier arms and sockets structurally sound without expensive trial-and-error? Most makers guess at proportions, load calculations, and assembly sequences—then watch their designs fail mid-production.  The Chandelier Arm and Socket Design Guide is a comprehensive Notion template that eliminates guesswork by centralizing al
